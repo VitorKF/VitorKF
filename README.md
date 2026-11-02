@@ -1,13 +1,13 @@
 
-# Olá! Eu sou Vitor Kopacek Fernandes 👋
+# Olá! Eu sou Vitor Kopacek Fernandes
 
 ### Desenvolvedor de Software | Backend
 
-Graduando em Engenharia de Software pela UNIJUÍ.
+Graduando em Engenharia de Software pela UNIJUÍ
 
-Tenho experiência com desenvolvimento e manutenção de sistemas, trabalhando principalmente com PHP, JavaScript e SQL.
+Tenho experiência com desenvolvimento e manutenção de sistemas, trabalhando principalmente com PHP, JavaScript e SQL
 
-Busco evoluir continuamente na construção de soluções de software, com foco em qualidade de código, bancos de dados e desenvolvimento Backend.
+Busco evoluir continuamente na construção de soluções de software, com foco em qualidade de código, bancos de dados e desenvolvimento Backend
 
 ---
 
@@ -37,7 +37,7 @@ Busco evoluir continuamente na construção de soluções de software, com foco 
 
 ### 🎓 Formação
 
-**Engenharia de Software** — UNIJUÍ
+**Engenharia de Software** - UNIJUÍ
 
 ---
 
