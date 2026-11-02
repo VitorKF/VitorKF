@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou Vitor Kopacek Fernandes 👋
 
-<!--
-**VitorKF/VitorKF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor de Software | Backend
 
-Here are some ideas to get you started:
+Graduando em Engenharia de Software pela UNIJUÍ.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência com desenvolvimento e manutenção de sistemas,
+trabalhando principalmente com PHP, JavaScript e SQL.
+
+Busco evoluir continuamente na construção de soluções de software,
+com foco em qualidade de código, bancos de dados e desenvolvimento Backend.
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+- **Linguagens:** PHP, JavaScript, SQL
+- **Banco de dados:** MySQL
+- **Web:** HTML, CSS
+- **Ferramentas:** Git, GitHub
+
+---
+
+### 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/vitorkopacekfernandes/)
+- [GitHub](https://github.com/VitorKF)
